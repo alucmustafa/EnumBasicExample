@@ -25,15 +25,6 @@ namespace Odevler
 
             }; db.YeniMusteriEkle(m1);
 
-            Musteri m2 = new Musteri()
-            {
-                ad = "Furkan",
-                soyad = "ALUÇ",
-                Adres = "Sultanbeyli",
-                Telno = "57846546",
-                Mail = "furkan@gmail.com",
-                Sifre = "m1234"
-            }; db.YeniMusteriEkle(m2);
         secimEkrani:
             Console.Clear();
             Console.WriteLine("Merhaba sistemden Müşteriler ile ilgili işlem yapmak için aşağıdaki yönergeleri takip edebilirsiniz");
