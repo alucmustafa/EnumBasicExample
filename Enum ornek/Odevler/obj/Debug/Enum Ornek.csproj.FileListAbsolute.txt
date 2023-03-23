@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\c# Ders dışı uygulama\Enum ornek\Odevler\obj\Debug\Enum Ornek.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\c# Ders dışı uygulama\Enum ornek\Odevler\obj\Debug\Enum Ornek.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\c# Ders dışı uygulama\Enum ornek\Odevler\obj\Debug\Enum Ornek.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\c# Ders dışı uygulama\Enum ornek\Odevler\bin\Debug\Odevler.exe.config
+C:\Users\Admin\Desktop\c# Ders dışı uygulama\Enum ornek\Odevler\bin\Debug\Odevler.exe
+C:\Users\Admin\Desktop\c# Ders dışı uygulama\Enum ornek\Odevler\bin\Debug\Odevler.pdb
+C:\Users\Admin\Desktop\c# Ders dışı uygulama\Enum ornek\Odevler\obj\Debug\Odevler.exe
+C:\Users\Admin\Desktop\c# Ders dışı uygulama\Enum ornek\Odevler\obj\Debug\Odevler.pdb
